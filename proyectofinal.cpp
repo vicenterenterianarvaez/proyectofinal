@@ -145,6 +145,7 @@ int main() {
                 << "| " << setw(19) << left << NumeroCentroSupervisado
                 << "| " << setw(25) << left << respuesta_c << " |" << endl;
 
+
         }
 
         cout << "+---------------+--------------------+---------------------------+" << endl;
